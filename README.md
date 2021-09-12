@@ -6,7 +6,7 @@ https://github.com/pranavkashyap06/Preprocess_text_file_Pranav.git
 
 Install:
 
-pip install git+ssh://git@github.com/pranavkashyap06/Preprocess_text_file_Pranav.git
+pip install git+https://github.com/pranavkashyap06/Preprocess_text_file_Pranav.git
 
 Uninstall:
 
